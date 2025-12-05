@@ -44,8 +44,3 @@ Kullanıcıdan giriş almak
 İşlemi uygulamak
 
 Sonucu yazdırmak
-
-myrna.py içeriği:
-
-
-myrna
